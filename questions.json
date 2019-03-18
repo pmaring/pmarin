@@ -1,0 +1,114 @@
+[
+   {
+      "type": "text",
+      "title": "1. ¿Qué animal de Newt Scamander le gusta los objetos brillantes?",
+      "answer": "escarbato"
+   },
+   {
+      "type": "text",
+      "title": "2. ¿Dónde tiene lugar la batalla final en el último libro?",
+      "answer": "comedor"
+   },
+   {
+      "type": "select",
+      "title": "3. Selecciona la respuesta correcta.¿Qué objetos conforman las reliquias de la muerte?",
+      "option": [
+         "Diario de Tom Riddle, Espada de Gryffindor, Guardapelo de Slytherin",
+         "Varita de sauco, piedra de resurección y diadema de Ravenclaw",
+         "Varita de sauco, piedra de resurreción y capa de invisibilidad"
+      ],
+      "answer": "2"
+   },
+   {
+      "type": "select",
+      "title": "4. SELECCIONA LAS RESPUESTAS CORRECTAS: ¿Quién de los siguientes son familiares de Ron Weasley?",
+      "option": [
+         "Dean",
+         "Neville",
+         "Rose"
+      ],
+      "answer": "3"
+   },
+   {
+      "type": "multiple",
+      "title": "5. Selecciona las respuestas correctas: ¿Cuáles de estos objetos son horrocruxes?",
+      "option": [
+         "Sombrero Seleccionador",
+         "Nagini",
+         "Diario de Tom Riddle",
+         "Copa de Helga Hufflepuff",
+         "Dobby"
+      ],
+      "answer": [
+         "1",
+         "2"
+      ]
+   },
+   {
+      "type": "multiple",
+      "title": "6. Señala las verdaderas:",
+      "option": [
+         "Neville Longbottom mata a Nagini con la espada de Gryffindor",
+         "La profesora Sprout da clases de herbologia",
+         "Newt Scamander fue a Slytherin",
+         "Harry Potter coge la Snitch en su primer partido con la mano",
+         "El mejor amigo de Albus Severus Potter es Scorpius Malfoy"
+      ],
+      "answer": [
+         "0",
+         "1",
+         "4"
+      ]
+   },
+   {
+      "type": "checkbox",
+      "title": "7. Selecciona las respuestas correctas: ¿Cuáles son maldiciones imperdonables?",
+      "option": [
+         "Wingardium Leviosa",
+         "Imperio",
+         "Crucio",
+         "Aquamenti",
+         "Avada Kedabra"
+      ],
+      "answer": [
+         "1",
+         "2",
+         "4"
+      ]
+   },
+   {
+      "type": "checkbox",
+      "title": "8. Selecciona las respuestas correctas: ¿Cuales son integrantes de la Casa Gryffindor?",
+      "option": [
+         "Dean Thomas",
+         "Pansy Parkinson",
+         "Padma Patil",
+         "Parvati Patil",
+         "Cho Chang"
+      ],
+      "answer": [
+         "0",
+         "3"
+      ]
+   },
+   {
+      "type": "radio",
+      "title": "9. ¿En que película utiliza el hechizo Rictusempra Harry?y, ¿contra quién?",
+      "option": [
+         "En la cámara secreta contra Draco",
+         "En la Piedra Filosofal, contra Quirrell",
+         "En el misterio del principe contra Snape"
+      ],
+      "answer": "0"
+   },
+   {
+      "type": "radio",
+      "title": "10. ¿Qué dos equipos se enfrentan en la final del Mundial de Quidditch?",
+      "option": [
+         "Irlanda vs Brasil",
+         "Islandia vs Bulgaria",
+         "Bulgaria vs Irlanda"
+      ],
+      "answer": "2"
+   }
+]
