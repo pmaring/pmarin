@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="questions.xsd">
+	<questions>
+	<question>
+		<type>text</type>
+		<title>1. ¿Qué animal de Newt Scamander le gusta los objetos brillantes?</title>
+		<answer>escarbato</answer>
+	</question>
+	<question>
+		<type>text</type>
+		<title>2. ¿Dónde tiene lugar la batalla final en el último libro?</title>
+		<answer>comedor</answer>
+	</question>
+	<question>
+		<type>select</type>
+		<title>3. Selecciona la respuesta correcta.¿Qué objetos conforman las reliquias de la muerte?</title>
+		<option>Diario de Tom Riddle, Espada de Gryffindor, Guardapelo de Slytherin</option>
+		<option>Varita de sauco, piedra de resurección y diadema de Ravenclaw</option>
+		<option>Varita de sauco, piedra de resurreción y capa de invisibilidad</option>
+		<answer>2</answer>
+	</question>
+	<question>
+		<type>select</type>
+		<title>4. SELECCIONA LAS RESPUESTAS CORRECTAS: ¿Quién de los siguientes son familiares de Ron Weasley?</title>
+		<option>Dean</option>
+		<option>Neville</option>
+		<option>Rose</option>
+		<answer>3</answer>
+	</question>
+	<question>
+		<type>multiple</type>
+		<title>5. Selecciona las respuestas correctas: ¿Cuáles de estos objetos son horrocruxes?</title>
+		<option>Sombrero Seleccionador</option>
+		<option>Nagini</option>
+		<option>Diario de Tom Riddle</option>
+		<option>Copa de Helga Hufflepuff</option>
+		<option>Dobby</option>
+		<answer>1</answer>
+		<answer>2</answer>
+	</question>
+	<question>
+		<type>multiple</type>
+		<title>6. Señala las verdaderas:</title>
+		<option>Neville Longbottom mata a Nagini con la espada de Gryffindor</option>
+		<option>La profesora Sprout da clases de herbologia</option>
+		<option>Newt Scamander fue a Slytherin</option>
+		<option>Harry Potter coge la Snitch en su primer partido con la mano</option>
+		<option>El mejor amigo de Albus Severus Potter es Scorpius Malfoy</option>
+		<answer>0</answer>
+		<answer>1</answer>
+		<answer>4</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>7. Selecciona las respuestas correctas: ¿Cuáles son maldiciones imperdonables?</title>
+		<option>Wingardium Leviosa</option>
+		<option>Imperio</option>
+		<option>Crucio</option>
+		<option>Aquamenti</option>
+		<option>Avada Kedabra</option>
+		<answer>1</answer>
+		<answer>2</answer>
+		<answer>4</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>8. Selecciona las respuestas correctas: ¿Cuales son integrantes de la Casa Gryffindor?</title>
+		<option>Dean Thomas</option>
+		<option>Pansy Parkinson</option>
+		<option>Padma Patil</option>
+		<option>Parvati Patil</option>
+		<option>Cho Chang</option>
+		<answer>0</answer>
+		<answer>3</answer>
+	</question>
+	<question>
+		<type>radio</type>
+		<title>9. ¿En que película utiliza el hechizo Rictusempra Harry?y, ¿contra quién?</title>
+		<option>En la cámara secreta contra Draco</option>
+		<option>En la Piedra Filosofal, contra Quirrell</option>
+		<option>En el misterio del principe contra Snape</option>
+		<answer>0</answer>
+	</question>
+	<question>
+		<type>radio</type>
+		<title>10. ¿Qué dos equipos se enfrentan en la final del Mundial de Quidditch?</title>
+		<option>Irlanda vs Brasil</option>
+		<option>Islandia vs Bulgaria</option>
+		<option>Bulgaria vs Irlanda</option>
+		<answer>2</answer>
+	</question>
+</questions>
